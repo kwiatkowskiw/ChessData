@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "LoginApplication\Application.csproj", "{D5BF9B43-F758-4B15-AFE7-92D3F786C913}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{33B52216-E1C0-406A-8F65-C05764614E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BF9B43-F758-4B15-AFE7-92D3F786C913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BF9B43-F758-4B15-AFE7-92D3F786C913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BF9B43-F758-4B15-AFE7-92D3F786C913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BF9B43-F758-4B15-AFE7-92D3F786C913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B52216-E1C0-406A-8F65-C05764614E7A}.Debug|Any CPU.ActiveCfg = Debug
+		{33B52216-E1C0-406A-8F65-C05764614E7A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E02679-4F31-4387-AB1F-0296E9AF6B36}
+	EndGlobalSection
+EndGlobal
